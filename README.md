@@ -129,6 +129,13 @@ You can access the host file system from `/vagrant`, which means you can drop
 your hadoop job in there and run it on your own fully distributed hadoop
 cluster.
 
+### HBase
+In order to start hbase do:
+
+    $ cd /opt/hbase-0.94.10/bin
+    $ start-hbase.sh
+    $ hbase shell
+
 ## Performance
 
 Since this is a fully virtualized environment running on your computer, it will
