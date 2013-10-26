@@ -1,3 +1,8 @@
+# This repo is a mess ;-)
+I'm using it as a means to ASAP get something done ;-)
+
+Do not use.
+
 # Vagrant + Cascading + Hadoop Cluster
 
 Clone this project to create a 4 node [Apache Hadoop](http://hadoop.apache.org) 
